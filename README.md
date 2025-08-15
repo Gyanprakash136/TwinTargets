@@ -62,8 +62,12 @@ Y2 (Cooling Load): R² = 0.896
 
 📈 Visualizations
 Training Set – Predicted vs Actual
+<img width="1133" height="490" alt="image" src="https://github.com/user-attachments/assets/e34c67f3-c7b5-42ba-a0b1-ec6ded1f369b" />
+
 
 Test Set – Predicted vs Actual
+<img width="1129" height="484" alt="image" src="https://github.com/user-attachments/assets/31b789b6-bf10-4d48-81d2-03efc9d2f54b" />
+
 
 📄 How to Run
 # Clone the repository
@@ -82,8 +86,9 @@ python energy_efficiency_regression.py
 
 How to use MultiOutputRegressor in Scikit-learn
 
-Feature scaling impact on linear regression
 
-Visualizing regression results with scatter plots and R² values
+- Feature scaling impact on linear regression
 
-Handling and interpreting multiple regression targets# TwinTargets
+- Visualizing regression results with scatter plots and R² values
+
+- Handling and interpreting multiple regression targets# TwinTargets
